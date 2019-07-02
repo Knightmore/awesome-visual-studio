@@ -1,8 +1,28 @@
-# Awesome Visual Studio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-
-This page is a curated list of awesome things for Visual Studio (the full-blown IDE, not VS Code) by Microsoft. If you are searching for Visual Studio Code related resources check [here](https://github.com/viatsko/awesome-vscode).
-Moreover, this page also includes some items relevant for Windows developers.
+<div align="center">
+	<div>
+		<a href="https://github.com/agarcialeon/awesome-unity/">
+			<img width="500" src="awesome-unity.png" alt="Awesome Unity">
+		</a>
+	</div>
+  <br>
+	<div>
+  <img src="https://github.com/agarcialeon/awesome-visual-studio/blob/master/assets/vs-ide-2019.svg" alt="Awesome">
+		<h1>Awesome Visual Studio </h1>		
+		<a href="https://github.com/sindresorhus/awesome"> 
+			<img src="https://awesome.re/badge-flat.svg" alt="Awesome">
+		</a>					
+		<p>
+			This page is a curated list of awesome things for Visual Studio (the full-blown IDE, not VS Code) by Microsoft. 
+   
+   <br>
+   If you are searching  for Visual Studio Code related resources check [here](https://github.com/viatsko/awesome-vscode).Moreover, this page also includes some items relevant for Windows developers.
+			<br><br>
+			Suggestions and contributions are always welcome!
+			<br>			
+			Make sure to read the <a href="https://github.com/agarcialeon/awesome-visual-studio/blob/master/CONTRIBUTING.md"> contribution guidelines </a> for more information before submitting a pull request.
+		</p>
+	</div>
+</div>
 
 ## General
 
