@@ -1,11 +1,5 @@
 <div align="center">
 	<div>
-		<a href="https://github.com/agarcialeon/awesome-unity/">
-			<img width="500" src="awesome-unity.png" alt="Awesome Unity">
-		</a>
-	</div>
-  <br>
-	<div>
   <img src="https://github.com/agarcialeon/awesome-visual-studio/blob/master/assets/vs-ide-2019.svg" alt="Awesome">
 		<h1>Awesome Visual Studio </h1>		
 		<a href="https://github.com/sindresorhus/awesome"> 
