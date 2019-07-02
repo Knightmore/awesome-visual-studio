@@ -1,7 +1,7 @@
 # Awesome Visual Studio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-This page is a curated list of awesome things for Visual Studio (the full-blown IDE, not VS Code) by Microsoft.
+This page is a curated list of awesome things for Visual Studio (the full-blown IDE, not VS Code) by Microsoft. If you are searching for Visual Studio Code related resources check [here](https://github.com/viatsko/awesome-vscode).
 Moreover, this page also includes some items relevant for Windows developers.
 
 ## General
@@ -41,15 +41,16 @@ Moreover, this page also includes some items relevant for Windows developers.
 - [Windows development videos](https://developer.microsoft.com/en-us/windows/develop/app-development-video) - Videos covering Windows development
 - [Microsoft Virtual Academy](https://mva.microsoft.com/) - Microsoft's online course material.
 
-
 ## Themes
 
-
+- [MSDN](https://draculatheme.com/visual-studio/) - The Visual Studio landing page on Microsoft's Developer Network.
+- [Studiostyles](https://studiostyl.es/) - Create and share Visual Studio color schemes.
+- [Color Themes for Visual Studio](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ColorThemesforVisualStudio) - Provides additional color themes for Visual Studio IDE. Includes themes contributed by community members plus themes from Microsoft's Color Themes Editor.
+- [Color Theme Editor for Visual Studio 2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2019ColorThemeEditor) - llows users to create and edit Visual Studio themes. Themes can customize colors used for menus, toolbars, tabs, titlebars, the text editor, and other environment colors.
 
 ## Social Media
 
 - [Twitter: @visualstudio](https://twitter.com/visualstudio) - Visual Studio Twitter account.
-
 
 ## Blogs
 
