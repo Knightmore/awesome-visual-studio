@@ -21,6 +21,10 @@
 
 - [Visual Studio website](https://www.visualstudio.com/) -  Microsoft website of Visual Studio.
 
+## Versions with support
+
+:construction:
+
 ## Extension Sources
 
 - [VSIX Gallery](http://vsixgallery.com/) - Gallery containing Visual Studio Extensions.
