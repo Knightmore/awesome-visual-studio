@@ -9,7 +9,7 @@
 			This page is a curated list of awesome things for Visual Studio (the full-blown IDE, not VS Code) by Microsoft.
    <br><br>
    If you are searching  for Visual Studio Code related resources check [here](https://github.com/viatsko/awesome-vscode). Moreover, this page also includes some items relevant for Windows developers.
-			<br>
+			<br><br>
 			Suggestions and contributions are always welcome!
 			<br>			
 			Make sure to read the <a href="https://github.com/agarcialeon/awesome-visual-studio/blob/master/CONTRIBUTING.md"> contribution guidelines </a> for more information before submitting a pull request.
