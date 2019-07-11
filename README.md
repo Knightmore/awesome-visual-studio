@@ -64,6 +64,8 @@
 - [RockMargin](https://marketplace.visualstudio.com/items?itemName=K1tty.RockMargin) - Reincarnation of famous RockScroll extension for Visual Studio 2012-2019.
 - [Codist](https://marketplace.visualstudio.com/items?itemName=wmj.Codist) - A productivity enhancer for C# programmers with advanced syntax highlight, Super Quick Info (code tooltip), Smart Bar (contextual toolbar), Navigation Bar, code structure markers on scrollbar, comment tagger, and more.
 - [Glyphfriend 2017](https://marketplace.visualstudio.com/items?itemName=RionWilliams.Glyphfriend2017) - An extension to enhance the existing Intellisense to display preview glyphs for many of the common glyph-based font libraries like Font Awesome, Material Design, Octicons, and more.
+- [ColorPicker](https://marketplace.visualstudio.com/items?itemName=ShemeerNS.ColorPicker) - Integrated Color Picker for Visual Studio IDE and Editor.
+
 
 ### Testing
 
@@ -200,10 +202,23 @@ tasks, and bugs in the project and informs when attention is needed.
 
 ## Themes
 
-- [MSDN](https://draculatheme.com/visual-studio/) - The Visual Studio landing page on Microsoft's Developer Network.
+- [Dracula Theme](https://draculatheme.com/visual-studio/) - The Visual Studio landing page on Microsoft's Developer Network.
 - [Studiostyles](https://studiostyl.es/) - Create and share Visual Studio color schemes.
 - [Color Themes for Visual Studio](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ColorThemesforVisualStudio) - Provides additional color themes for Visual Studio IDE. Includes themes contributed by community members plus themes from Microsoft's Color Themes Editor.
 - [Color Theme Editor for Visual Studio 2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2019ColorThemeEditor) - llows users to create and edit Visual Studio themes. Themes can customize colors used for menus, toolbars, tabs, titlebars, the text editor, and other environment colors.
+
+## Tips and Tricks
+
+- [Visual Studio tips and tricks - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/visual-studio-tips-and-tricks/) - Blog post with tips and tricks by Mads Kristensen.
+- [Visualstudiotipsandtricks.com](https://www.visualstudiotipsandtricks.com/) - Website with some useful tips for Visual Studio.
+- [Visual Studio most useful and underused tips - Scott Hanselman's Blog](https://www.hanselman.com/blog/VisualStudiosMostUsefulAndUnderusedTips.aspx) - Blog post with tips by Scott Hanselman.
+- [Basic Tips and Tricks to Boost Productivity in Visual Studio - Code Maze Blog](https://code-maze.com/visual-studio-productivity/) - Blog post at Code Maze blog.
+- [Visual Studio Tips & Tricks - Sturla.io](https://sturla.io/visual-studio-tips-tricks/) - Blog post with shortcuts for Visual Studio.
+- [Tips and Tricks for Visual Studio IDE and editor - Channel 9](https://channel9.msdn.com/Events/Connect/2017/B105) - This fast-paced talk demonstrates some of our favorite tips and tricks for Visual Studio Code, Visual Studio for Mac, and Visual Studio 2017.
+
+## Shortcuts
+
+- [Visualstudioshortcuts.com](http://visualstudioshortcuts.com/) - Complete list of shortcuts for Visual Studio (different versions listed).
 
 ## Social Media
 
