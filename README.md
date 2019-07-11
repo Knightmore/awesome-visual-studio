@@ -36,6 +36,7 @@
 ### Web development
 
 - [Web Essentials](http://vswebessentials.com/) - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years.
+- [Typewriter](https://marketplace.visualstudio.com/items?itemName=frhagn.Typewriter) - Generates TypeScript files from c# code files using TypeScript Templates. This allows you to create fully typed TypeScript representations of server side API that automatically updates when you make changes to your c# code.
 
 ### Templates
 
@@ -45,18 +46,28 @@
 
 - [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerTools) - A set of extensions to Visual Studio Professional (and above) which improves developer productivity. Choose the one for your Visual Studio version.
 - [Open Command Line](https://visualstudiogallery.msdn.microsoft.com/4e84e2cf-2d6b-472a-b1e2-b84932511379) - Easily open CMD or PowerShell from within Visual Studio.
+- [Smart Paster](https://marketplace.visualstudio.com/items?itemName=martinw.SmartPaster2013) - Paste clipboard into comments or strings in C#, VB, C++.
 
 ### Editor
 
+- [Supercharger](https://marketplace.visualstudio.com/items?itemName=MichaelKissBG8.Supercharger) - AutoText, CodeMAP, Intelligent Code Flow Lines, Code Highlighters, Rich Code, Magic Comments, Phrasing Review, Spellist, SuperFind, Statistics etc.
 - [Indent Guides](https://marketplace.visualstudio.com/items?itemName=SteveDowerMSFT.IndentGuides) - Adds indentation guides to the code editor to easily visualize the level of indentation.
 - [CodeAlignment](https://marketplace.visualstudio.com/items?itemName=cpmcgrath.Codealignment) - Language-agnostic plug-in that vertically aligns code, e.g. on `=` signs or even customizable regular expressions.
 - [Syntax Highlighting Pack](https://visualstudiogallery.msdn.microsoft.com/d92fd742-bab3-4314-b866-50b871d679ee) - Syntax highlighting for many more languages.
 - [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora) - Add color to your Visual Studio Text Editor!
 - [Multi Edit Mode](https://visualstudiogallery.msdn.microsoft.com/2beb9705-b568-45d1-8550-751e181e3aef) - Adds multiple cursors to Visual Studio.
+- [Tabs Studio](https://tabsstudio.com/) - A Visual Studio extension empowering you to work comfortably with any number of open documents.
+- [Intellisense Extender](https://marketplace.visualstudio.com/items?itemName=Dreamescaper.IntelliSenseExtender) - Provide IntelliSense completions not only for imported types, but for all available in current solution and referenced assemblies.
+- [I Hate Regions](https://marketplace.visualstudio.com/items?itemName=Shanewho.IHateRegions) - Automatically expands regions and changes their font and color to essentially make them invisible.
+- [Select Next Occurrence](https://marketplace.visualstudio.com/items?itemName=thomaswelen.SelectNextOccurrence) - Automatically expands regions and changes their font and color to essentially make them invisible.
+- [RockMargin](https://marketplace.visualstudio.com/items?itemName=K1tty.RockMargin) - Reincarnation of famous RockScroll extension for Visual Studio 2012-2019.
+- [Codist](https://marketplace.visualstudio.com/items?itemName=wmj.Codist) - A productivity enhancer for C# programmers with advanced syntax highlight, Super Quick Info (code tooltip), Smart Bar (contextual toolbar), Navigation Bar, code structure markers on scrollbar, comment tagger, and more.
+- [Glyphfriend 2017](https://marketplace.visualstudio.com/items?itemName=RionWilliams.Glyphfriend2017) - An extension to enhance the existing Intellisense to display preview glyphs for many of the common glyph-based font libraries like Font Awesome, Material Design, Octicons, and more.
 
 ### Testing
 
-:construction:
+- [NCrunch](https://www.ncrunch.net/) - An automated concurrent testing tool for Visual Studio.
+- [OpenCoverUI](https://marketplace.visualstudio.com/items?itemName=jamdagni86.OpenCoverUI) - Visual Studio Integration for OpenCover.
 
 ### Debugging
 
@@ -69,6 +80,8 @@
 ### Refactoring
 
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
+- [SteroidsVS](https://marketplace.visualstudio.com/items?itemName=eberthold.SteroidsVS) - Improves visibility of roslyn analyzer warnings and errors in documents. Includes an overall file quality indicator (bottom right corner, glows in specific color). Adds code structure view as code adornment.
+- [SonarLint for Visual Studio 2017](https://marketplace.visualstudio.com/items?itemName=SonarSource.SonarLintforVisualStudio2017) - Roslyn based static code analysis: Find and instantly fix nasty bugs and code smells in C#, VB.Net, C, C++ and JS.
  * [Resharper](https://www.jetbrains.com/resharper/) - Developer Productivity Tool for Visual Studio **[$]**
 - [Refactoring Essentials](http://vsrefactoringessentials.com/) - Open source extension for C# and VB.NET refactorings, including code best practice analyzers.
 - [CodeMaid](http://www.codemaid.net/) - Plug-in for clean-up and simplification of many code tasks in C++, C#, and many other languages.
@@ -96,7 +109,7 @@
 
 ### Build
 
-:construction:
+- [BuildVision](https://marketplace.visualstudio.com/items?itemName=stefankert.BuildVision) - A Visual Studio extension to visualize the building process.
 
 ### Code Styling
 
@@ -112,6 +125,7 @@
 - [File Differ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileDiffer) - The easiest way to diff two files directly in Solution Explorer.
 - [Visual Studio Bitbucket Extension](https://marketplace.visualstudio.com/items?itemName=MistyK.VisualStudioBitbucketExtension) - Provides the integration with Atlassian Bitbucket.
 - [GitLab Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=MysticBoy.GitLabExtensionforVisualStudio) - A Visual Studio Extension that brings the GitLab Flow into Visual Studio.
+- [GitFlow for Visual Studio 2017](https://marketplace.visualstudio.com/items?itemName=vs-publisher-57624.GitFlowforVisualStudio2017) - It exposes the most common GitFlow options when finishing branches, such as options to delete branches, rebase on development branch and tagging of release branches.
 
 ### CI / CD
 
@@ -123,6 +137,12 @@ tasks, and bugs in the project and informs when attention is needed.
 ### Metrics
 
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.WakaTime) - Metrics, insights, and time tracking automatically generated from your programming activity.
+- [Code Metrices](https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices) - Helps to monitor the code complexity. As you type, the method complexity "health" is updated, and the complexity is shown near the method.
+- [Microsoft CodeLens Code Health Indicator](https://marketplace.visualstudio.com/items?itemName=Jean-MarcPrieur.MicrosoftCodeLensCodeHealthIndicator) - This is an experimental CodeLens Indicator that shows information about the code being edited.
+
+### Diagrams
+
+- [Plant UML Class Diagram Generator](https://github.com/pierre3/PlantUmlClassDiagramGenerator) - his is a generator to create a class-diagram of PlantUML from the C# source code.
 
 ### Documentation
 
