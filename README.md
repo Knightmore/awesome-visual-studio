@@ -34,6 +34,8 @@
 
 ## Extensions
 
+The following list of resources has been collected from different sources on the internet searching for the most useful and common extensions used by developers. If you think a resource might be considered to be listed here, please fill an issue or create a pull request.
+
 ### Web development
 
 - [Web Essentials](http://vswebessentials.com/) - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years.
